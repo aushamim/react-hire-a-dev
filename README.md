@@ -1,6 +1,6 @@
-# Project Name: Goriber IT Corporation
+# Hire a Developer
 
-# Live Site Link: https://goriber-it-corporation.netlify.app/
+# Live Site Link: https://hire-dev-a8.netlify.app/
 
 - Features
 - - See Awesome Developers Profile
